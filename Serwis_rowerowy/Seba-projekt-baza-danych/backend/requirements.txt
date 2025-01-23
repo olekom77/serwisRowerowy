@@ -1,5 +1,0 @@
-Flask==2.3.2
-Flask-SQLAlchemy==3.0.5
-psycopg2-binary==2.9.7
-flask_migrate==3.1.0
-flask_cors==5.0.0
